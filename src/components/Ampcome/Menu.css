@@ -1,0 +1,23 @@
+.menu_style {
+    background-color: #203765;
+    box-shadow: 20px 2px 20px rgba(0,0,0,.5);
+    color: #fff;
+    overflow: hidden;
+    padding-top: 50px;
+    position: fixed;
+    top: 0;
+    width: 5%;
+    margin: auto;
+    z-index: 2;
+    }
+    .loginright, .menu_style {
+    margin: auto;
+    width: 3%;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    display: block;
+    }
+    .active_class {
+     margin: 20%;
+    }
